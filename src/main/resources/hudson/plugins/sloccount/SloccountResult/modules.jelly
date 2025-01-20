@@ -4,7 +4,7 @@
   <table class="jenkins-table sortable jenkins-table--small" id="modules">
     <thead>
       <tr>
-        <th>${%Modules}</th>
+        <th>${%Module}</th>
         <th>${%Files}</th>
         <th>${%Lines}</th>
         <th>${%Comments}</th>
@@ -35,7 +35,4 @@
     </tfoot>
   </table>
 
-  <script type="text/javascript">
-          Behaviour.applySubtree(document.getElementById('statistics'));
-  </script>
 </j:jelly>

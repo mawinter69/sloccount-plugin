@@ -34,8 +34,4 @@
       </tr>
     </tfoot>
   </table>
-
-  <script type="text/javascript">
-          Behaviour.applySubtree(document.getElementById('statistics'));
-  </script>
 </j:jelly>
